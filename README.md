@@ -47,4 +47,4 @@ https://ai-chatbot-wniz.onrender.com
 ### Deployment
 - Vercel (Frontend)
 - Render (Backend)
-- 
+  
