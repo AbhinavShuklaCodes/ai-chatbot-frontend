@@ -8,7 +8,7 @@ The chatbot provides real-time AI-generated responses with a sleek modern UI and
 ## 🚀 Live Demo
 
 ### Frontend (Vercel)
-https://your-vercel-url.vercel.app
+[https://your-vercel-url.vercel.app](https://ai-chatbot-frontend-ecru-theta.vercel.app/)
 
 ### Backend (Render)
 https://ai-chatbot-wniz.onrender.com
